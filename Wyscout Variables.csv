@@ -1,0 +1,509 @@
+﻿"Advanced Search, All Vars","Match by Match, All Vars"
+Player,player
+Full name,age
+Wyscout id,main_position
+Team,club
+Team within selected timeframe,on_loan
+Team logo,minutes_on_field
+Competition,goalkeeper_action
+Position,action
+Primary position,goal_kick
+"Primary position, %",goalkeeper_distribution
+Secondary position,goalkeeper_goal_kick
+"Secondary position, %",goal_kick_long
+Third position,shot_against
+"Third position, %",near_shot_against
+Age,any_goal
+Birthday,conceded_goal
+Market value,meaningless
+Contract expires,near_conceded_goal
+Matches played,any_free_kick
+Minutes played,goal_kick_short
+Goals,goalkeeper_exit
+xG,pass
+Assists,recovery
+xA,save
+Duels per 90,aerial_duel
+"Duels won, %",aerial_duel_in_own_penalty_area
+Birth country,buildup_pass
+Passport country,duel
+Foot,forward_pass
+Height,goalkeeper_action_on_corner_faced
+Weight,goalkeeper_action_on_cross_faced
+On loan,goalkeeper_claim
+Successful defensive actions per 90,goalkeeper_foot_pass
+Defensive duels per 90,goalkeeper_long_pass
+"Defensive duels won, %",hand_pass
+Aerial duels per 90,head_conceded_goal
+"Aerial duels won, %",heading
+Sliding tackles per 90,interception
+PAdj Sliding tackles,last
+Shots blocked per 90,lateral_pass
+Interceptions per 90,long_pass
+PAdj Interceptions,long_pass_into_duel
+Fouls per 90,long_pass_or_cross
+Yellow cards,long_shot_against
+Yellow cards per 90,pass_followed_by_teammate_loss
+Red cards,pass_into_duel
+Red cards per 90,penalty_conceded_goal
+Successful attacking actions per 90,pick_up
+Goals per 90,plus
+Non-penalty goals,progressive_pass
+Non-penalty goals per 90,run
+xG per 90,run_to_final_third
+Head goals,save_with_reflex
+Head goals per 90,short_medium_pass
+Shots,vertical_pass
+Shots per 90,goalkeeper_action_success
+"Shots on target, %",action_success
+"Goal conversion, %",goal_kick_success
+Assists per 90,goalkeeper_distribution_success
+Crosses per 90,goalkeeper_goal_kick_success
+"Accurate crosses, %",goal_kick_long_success
+Crosses from left flank per 90,shot_against_success
+"Accurate crosses from left flank, %",near_shot_against_success
+Crosses from right flank per 90,any_goal_success
+"Accurate crosses from right flank, %",conceded_goal_success
+Crosses to goalie box per 90,near_conceded_goal_success
+Dribbles per 90,any_free_kick_success
+"Successful dribbles, %",pass_success
+Offensive duels per 90,recovery_success
+"Offensive duels won, %",save_success
+Touches in box per 90,buildup_pass_success
+Progressive runs per 90,forward_pass_success
+Accelerations per 90,goal_kick_short_success
+Received passes per 90,goalkeeper_foot_pass_success
+Received long passes per 90,goalkeeper_long_pass_success
+Fouls suffered per 90,hand_pass_success
+Passes per 90,head_conceded_goal_success
+"Accurate passes, %",interception_success
+Forward passes per 90,lateral_pass_success
+"Accurate forward passes, %",long_pass_success
+Back passes per 90,long_pass_into_duel_success
+"Accurate back passes, %",long_pass_or_cross_success
+Short / medium passes per 90,long_shot_against_success
+"Accurate short / medium passes, %",pass_followed_by_teammate_loss_success
+Long passes per 90,pass_into_duel_success
+"Accurate long passes, %",penalty_conceded_goal_success
+"Average pass length, m",pick_up_success
+"Average long pass length, m",plus_success
+xA per 90,progressive_pass_success
+Shot assists per 90,save_with_reflex_success
+Second assists per 90,short_medium_pass_success
+Third assists per 90,vertical_pass_success
+Smart passes per 90,xg_shot
+"Accurate smart passes, %",xg_assist
+Key passes per 90,xg_save
+Passes to final third per 90,total_actions
+"Accurate passes to final third, %",total_actions_success
+Passes to penalty area per 90,yellow_card_minute
+"Accurate passes to penalty area, %",red_card_minute
+Through passes per 90,quick_recovery
+"Accurate through passes, %",foul_suffered
+Deep completions per 90,goalkeeper_sweep
+Deep completed crosses per 90,legacy_won_duel
+Progressive passes per 90,real_won_duel
+"Accurate progressive passes, %",duel_with_foul
+"Accurate vertical passes, %",ground_duel
+Vertical passes per 90,legacy_won_offensive_duel
+Conceded goals,offensive_duel
+Conceded goals per 90,offensive_duel_with_progress
+Shots against,offensive_shielding
+Shots against per 90,pass_to_final_third
+Clean sheets,pass_to_zone_fourteen
+"Save rate, %",clearance
+xG against,goalkeeper_action_on_free_kick_faced
+xG against per 90,goalkeeper_short_pass
+Prevented goals,launch
+Prevented goals per 90,loose_ball_duel
+Back passes received as GK per 90,loss
+Exits per 90,loss_v2
+Aerial duels per 90,touch
+Free kicks per 90,quick_recovery_success
+Direct free kicks per 90,duel_success
+"Direct free kicks on target, %",foul_suffered_success
+Corners per 90,goalkeeper_sweep_success
+Penalties taken,legacy_won_duel_success
+"Penalty conversion, %",real_won_duel_success
+,duel_with_foul_success
+,ground_duel_success
+,legacy_won_offensive_duel_success
+,offensive_duel_success
+,offensive_duel_with_progress_success
+,offensive_shielding_success
+,pass_to_final_third_success
+,pass_to_zone_fourteen_success
+,goalkeeper_short_pass_success
+,loose_ball_duel_success
+,loss_success
+,loss_v2_success
+,easy_conceded_goal
+,received_pass
+,far_conceded_goal
+,long_conceded_goal
+,loss_after_pass
+,minus
+,dangerous_own_half_loss
+,goalkeeper_pass_under_pressure
+,goalkeeper_short_pass_under_pressure
+,own_half_loss
+,pressed_sequence_loss
+,pressed_sequence_recovery
+,recovery_counterpressing
+,through_pass_interception
+,under_pressure
+,easy_conceded_goal_success
+,far_conceded_goal_success
+,long_conceded_goal_success
+,received_pass_success
+,minus_success
+,through_pass_interception_success
+,received_long_pass
+,goalkeeper_action_on_cross_faced_success
+,received_long_pass_success
+,goalkeeper_shot_buildup
+,goalkeeper_accurate_punch
+,goalkeeper_punch
+,shot_buildup_pass
+,pressed_sequence_loss_success
+,loss_after_pass_success
+,goalkeeper_shot_buildup_success
+,goalkeeper_mistake_on_corner_faced
+,loss_after_duel
+,aerial_duel_success
+,aerial_duel_in_own_penalty_area_success
+,heading_success
+,clearance_success
+,dangerous_own_half_loss_success
+,loss_after_duel_success
+,own_half_loss_success
+,recovery_counterpressing_success
+,launch_success
+,pressed_sequence_recovery_success
+,card_suffered
+,card_suffered_success
+,last_success
+,goalkeeper_medium_pass_under_pressure
+,defensive_duel
+,legacy_won_defensive_duel
+,pre_shot_assist
+,stopped_progress_defensive_duel
+,defensive_duel_success
+,legacy_won_defensive_duel_success
+,pre_shot_assist_success
+,stopped_progress_defensive_duel_success
+,penalty_save
+,penalty_save_success
+,ball_delivery_to_danger_zone
+,ball_delivery_to_penalty_area
+,deep_completed_pass
+,pass_behind_the_back
+,pass_to_penalty_area
+,pass_to_penalty_area_v2
+,through_pass
+,very_deep_completion
+,ball_delivery_to_danger_zone_success
+,ball_delivery_to_penalty_area_success
+,deep_completed_pass_success
+,pass_behind_the_back_success
+,pass_to_penalty_area_success
+,pass_to_penalty_area_v2_success
+,through_pass_success
+,very_deep_completion_success
+,goalkeeper_medium_pass_under_pressure_success
+,goalkeeper_pass_under_pressure_success
+,under_pressure_success
+,goalkeeper_short_pass_under_pressure_success
+,fairplay
+,infraction
+,out_of_play_foul
+,yellow_cards
+,dangerous_lost_defensive_duel
+,dribble_against
+,lost_defensive_duel
+,run_success
+,run_to_final_third_success
+,shot_buildup_pass_success
+,action_in_counterattack
+,action_in_counterattack_success
+,misconduct
+,time_lost_foul
+,goalkeeper_long_pass_under_pressure
+,highlight
+,own_goal
+,goalkeeper_long_pass_under_pressure_success
+,foul
+,regular_foul
+,missed_ball
+,pre_assist
+,pre_assist_success
+,dribble
+,dribble_attempt
+,dribble_with_progress
+,dribble_with_take_on
+,dribble_won_v2
+,legacy_dribble_success
+,one_on_one
+,dribble_success
+,dribble_attempt_success
+,dribble_with_progress_success
+,dribble_with_take_on_success
+,dribble_won_v2_success
+,legacy_dribble_success_success
+,one_on_one_success
+,head_pass
+,head_pass_success
+,free_kick
+,free_kick_cross
+,indirect_free_kick
+,progressive_run
+,defensive_one_on_one
+,dribble_against_with_take_on
+,dribbled_past_attempt
+,defensive_duel_regain
+,super_save
+,defensive_one_on_one_success
+,dribble_against_success
+,dribble_against_with_take_on_success
+,dribbled_past_attempt_success
+,defensive_duel_regain_success
+,super_save_success
+,red_cards
+,hand_foul
+,ball_loss
+,ball_loss_in_area
+,penalty_foul
+,counterattack_interception
+,dribble_with_space
+,dribble_with_space_success
+,counterattack_interception_success
+,defensive_positioning
+,covering_depth
+,opponent_half_recovery
+,opponent_half_recovery_success
+,opportunity
+,received_dangerous_pass
+,received_deep_completion
+,received_pass_in_final_third
+,received_very_deep_completion
+,right_foot_shot
+,shot
+,shot_after_corner
+,shot_after_received_deep_completion
+,shot_after_received_very_deep_completion
+,shot_block
+,shot_from_box
+,shot_from_danger_zone
+,shot_from_penalty_area
+,shot_from_play
+,shot_wide
+,touch_in_box
+,touch_in_final_third
+,touch_in_penalty_area
+,back_pass
+,back_pass_success
+,dangerous_foul
+,head_shot
+,left_foot_shot
+,pressing_duel
+,right_throw_in
+,shot_after_free_kick
+,shot_to_far_corner
+,throw_in
+,right_throw_in_success
+,throw_in_success
+,first_goal
+,goal
+,goal_after_corner
+,head_goal
+,non_penalty_goal
+,shot_on_goal
+,first_goal_success
+,goal_success
+,goal_after_corner_success
+,head_goal_success
+,head_shot_success
+,highlight_success
+,non_penalty_goal_success
+,opportunity_success
+,shot_success
+,shot_after_corner_success
+,shot_from_box_success
+,shot_from_danger_zone_success
+,shot_from_penalty_area_success
+,shot_from_play_success
+,shot_on_goal_success
+,touch_in_box_success
+,touch_in_final_third_success
+,touch_in_penalty_area_success
+,acceleration
+,back_pass_to_gk
+,tackle
+,acceleration_success
+,back_pass_to_gk_success
+,progressive_run_success
+,cross_block
+,long_ground_pass
+,off_the_ball
+,pass_within_final_third
+,long_ground_pass_success
+,pass_within_final_third_success
+,tackle_success
+,cross_block_success
+,shot_to_near_corner
+,key_pass
+,key_pass_v2
+,shot_assist
+,received_progressive_pass
+,received_deep_completion_success
+,received_pass_in_final_third_success
+,received_progressive_pass_success
+,received_very_deep_completion_success
+,offside
+,opportunity_creation
+,shot_after_free_kick_success
+,received_cross
+,received_cross_success
+,diagonal_to_flank
+,pass_to_another_flank
+,pre_pre_assist
+,pre_pre_assist_success
+,cross
+,cross_from_left
+,cross_low
+,cross_to_penalty_area
+,shot_from_cross
+,shot_on_goal_assist
+,received_dangerous_pass_success
+,shot_assist_success
+,shot_from_cross_success
+,shot_on_goal_assist_success
+,pass_to_another_flank_success
+,left_throw_in
+,received_pass_in_final_third_on_side
+,left_throw_in_success
+,received_pass_in_final_third_on_side_success
+,shot_on_post
+,dangerous_opponent_half_recovery
+,dangerous_opponent_half_recovery_success
+,cutback
+,penalty
+,penalty_goal
+,right_foot_goal
+,penalty_success
+,penalty_goal_success
+,right_foot_goal_success
+,right_foot_shot_success
+,decisive_goal
+,decisive_goal_success
+,cross_high
+,deep_completed_cross
+,cross_success
+,cross_from_left_success
+,cross_high_success
+,deep_completed_cross_success
+,smart_pass
+,low_through_ball
+,smart_pass_v2
+,through_pass_v2
+,shot_block_success
+,smart_pass_success
+,smart_pass_v2_success
+,controlled_penalty_area_entry
+,controlled_penalty_area_entry_success
+,blocked_shot
+,cross_blocked
+,cross_to_goalie_box
+,shot_from_outside_area
+,diagonal_to_flank_success
+,cross_to_goalie_box_success
+,protest_foul
+,left_foot_shot_success
+,shot_from_outside_area_success
+,late_card_foul
+,pending_card
+,left_foot_goal
+,successful_dribble_leading_to_shot
+,cross_to_penalty_area_success
+,left_foot_goal_success
+,shot_to_near_corner_success
+,successful_dribble_leading_to_shot_success
+,ball_entry_in_final_third
+,ball_entry_in_final_third_success
+,opportunity_creation_success
+,desdoble
+,desdoble_success
+,linkup_play
+,inside_run
+,inside_run_success
+,cross_low_success
+,key_pass_success
+,key_pass_v2_success
+,low_through_ball_success
+,through_pass_v2_success
+,free_kick_shot_gained
+,free_kick_shot_gained_success
+,shot_assist_in_counterattack
+,shot_assist_in_counterattack_success
+,short_back_shot_assist
+,short_back_shot_assist_success
+,shot_to_far_corner_success
+,direct_free_kick
+,free_kick_shot
+,free_kick_with_shot
+,direct_free_kick_success
+,free_kick_success
+,free_kick_shot_success
+,free_kick_with_shot_success
+,shot_after_received_deep_completion_success
+,shot_after_received_very_deep_completion_success
+,shot_in_counterattack
+,corner
+,cross_from_right
+,corner_with_shot
+,corner_won_from_off_duel
+,linkup_play_success
+,corner_success
+,corner_with_shot_success
+,corner_won_from_off_duel_success
+,cross_from_right_success
+,free_kick_cross_success
+,indirect_free_kick_success
+,corner_won_from_aerial_duel
+,corner_won_from_aerial_duel_success
+,corner_won_from_cross
+,goal_from_outside_area
+,deep_completed_run
+,dribble_in_danger_zone
+,free_kick_goal
+,kick_off
+,goal_from_outside_area_success
+,corner_won_from_cross_success
+,deep_completed_run_success
+,dribble_in_danger_zone_success
+,free_kick_goal_success
+,kick_off_success
+,corner_won_from_shot
+,corner_won_from_shot_success
+,penalty_suffered
+,penalty_suffered_success
+,assist
+,assist_success
+,shot_after_throw_in
+,corner_won_from_loose_ball_duel
+,corner_won_from_another_corner
+,corner_won_from_another_corner_success
+,goal_after_throw_in
+,corner_won_from_loose_ball_duel_success
+,goal_after_throw_in_success
+,shot_after_throw_in_success
+,assist_from_set_piece
+,assist_from_set_piece_success
+,goal_from_cross
+,goal_from_cross_success
+,cutback_success
+,shot_in_counterattack_success
+,goal_after_free_kick
+,goal_after_free_kick_success
+,free_kick_conceded_goal
+,free_kick_conceded_goal_success
